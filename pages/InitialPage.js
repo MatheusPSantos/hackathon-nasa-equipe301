@@ -14,6 +14,7 @@ export default function InitialPage() {
   return (
     <View style={styles.container}>
       <Text>Piaui é do piaui</Text>
+      <Text>barreto é de goias</Text>
     </View>
   );
 }
